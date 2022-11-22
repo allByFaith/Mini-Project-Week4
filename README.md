@@ -10,6 +10,8 @@
 
 <p style="text-align: justify;"><span style="color:#808080;">The Mini-Project is initiated to apply what we have equipped from the generation&rsquo;s data engineering programme.&nbsp; The project has been in phase 4 already.&nbsp; The data structure for this development has changed from beginning text file keeping to <strong>CSV</strong> file format storage.&nbsp; By integrating the Python programming technique, Git and GitHub technologies to construct a <strong>C</strong>ommand <strong>L</strong>ine <strong>I</strong>nterface (<strong>CLI</strong>) system to manage the user product, courier and order in this application. Perform the search, store and print operations in this system.&nbsp; The completed development will be uploaded to the GitHub repository for version control and storage.</span></p>
 
+<p style="text-align: justify;">&nbsp;</p>
+	
 <p><span style="color: rgb(0, 128, 0); font-size: 28px; text-align: justify;">Client Requirement</span></p>
 
 <p><span style="color:#808080;">In general, this system is able to handle three types of operation, namely: products, couriers and orders handling respectively.&nbsp; These operations will be grouped inside the </span><strong>FOUR&nbsp;BASIC MENUS</strong><span style="color:#808080;">, they are:</span></p>
@@ -20,8 +22,6 @@
 	<li><span style="color:#808080;">Courier Menu</span></li>
 	<li><span style="color:#808080;">Order Menu</span></li>
 </ol>
-
-<p style="text-align: justify;">&nbsp;</p>
 
 <p style="text-align: justify;">&nbsp;</p>
 
