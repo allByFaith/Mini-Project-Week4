@@ -24,7 +24,8 @@
 </ol>
 
 <p style="text-align: justify;">&nbsp;</p>
-
+	
+<p style="text-align: justify;">&nbsp;</p>
 <p style="text-align: justify;"><span style="color:#008000;"><span style="font-size:28px;">System Design</span></span></p>	
 
 <p><span style="color:#808080;">All the required functions will be grouped as their natures.&nbsp; Below will show the details of each menu:</span></p>
