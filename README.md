@@ -29,7 +29,7 @@
 
 <p><span style="color:#808080;">All the required functions will be grouped as their natures.&nbsp; Below will show the details of each menu:</span></p>
 
-<ul>
+<ol>
 	<li>Main Menu
 	<ol>
 		<li><span style="color:#808080;">Product Menu</span></li>
@@ -65,7 +65,7 @@
 		<li><span style="color:#808080;">Return to Main</span></li>
 	</ol>
 	</li>
-</ul>
+</ol>
 
 	
 <p style="text-align: justify;">&nbsp;</p>
