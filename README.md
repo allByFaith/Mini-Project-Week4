@@ -84,14 +84,7 @@
 
 <p style="text-align: justify;">It is fun to do software development such as python programming.&nbsp; I enjoy writing the application and refactoring functionalities and features, to make the deliverable code more clean and readable.&nbsp;</p>
 
-<p style="text-align: justify;">The most enjoyable thing is debugging the system.&nbsp; It makes me think more in the &quot;Machine Way&quot;.&nbsp; If I have more time for development, I believe I will enhance the hypocrisy of the list and dictionary, make it more flexible to retrieve and put them into a function for easy calling.</p>
+<p style="text-align: justify;">The most enjoyable thing is debugging the system and solving the logic problem.&nbsp; It makes me think more in the &quot;Machine Way&quot;.&nbsp; If I have more time for development, I believe I will enhance the hypocrisy of the list and dictionary, make it more flexible to retrieve and put them into a function for easy calling.</p>
 
-<p style="margin-left:72pt;">If you had more time, what is one thing you would improve upon? (ACTION PLAN FOR FUTURE IMPLEMENTATION)</p>
-
-<p style="margin-left:36pt;">2)Fun and Joy</p>
-
-<p style="margin-left:72pt;">a.Before mentioning those fun and joy things, I would like to talk about the scorn and despise things first:</p>
-
-<p style="margin-left:72pt;">b.Enjoy working solving the problem</p>
 <grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></body>
 </html>
