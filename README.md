@@ -67,6 +67,8 @@
 	</li>
 </ul>
 
+<p style="text-align: justify;">&nbsp;</p>
+	
 <p><span style="color:#008000;"><span style="font-size:18px;">Application Testing</span></span></p>
 
 <p style="margin-left:36pt;"><span style="color:#808080;">To ensure the application work as expected, it applies&nbsp;the </span><strong>pytest</strong><span style="color:#808080;"> for unit testing</span></p>
