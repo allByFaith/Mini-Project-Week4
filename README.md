@@ -82,7 +82,7 @@
 	
 <p style="text-align: justify;"><span style="font-size:28px;">Conclusion</span></p>
 
-<p style="text-align: justify;">It is fun to do software development such as python programming.&nbsp; I enjoy writing the application and refactoring functionalities and features, to make the deliverable code more clean and readable.&nbsp;</p>
+<p style="text-align: justify;">It is fun to do software development such as python programming.&nbsp; I enjoy writing the application and refactoring functionalities and features, to make the deliverable code more clean and readable.  As a result, hoping the system should become more functional and run more efficiently.&nbsp;</p>
 
 <p style="text-align: justify;">The most enjoyable thing is debugging the system and solving the logic problem.&nbsp; It makes me think more in the &quot;<strong>Machine Way</strong>&quot;.&nbsp; If I have more time for development, I believe I will enhance the hypocrisy of the list and dictionary, make it more flexible to retrieve and put them into a function for easy calling.</p>
 
