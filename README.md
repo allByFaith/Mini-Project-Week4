@@ -16,7 +16,7 @@
 
 <p><span style="color:#808080;">In general, this system is able to handle three types of operation, namely: products, couriers and orders handling respectively.&nbsp; These operations will be grouped inside the </span><strong>FOUR&nbsp;BASIC MENUS</strong><span style="color:#808080;">, they are:</span></p>
 
-<img src="[https://user-images.githubusercontent.com/87363056/203319536-c1a5608c-13e9-4a08-869f-ddab6ee92f5e.png" ALIGN=”left” alt="System Menu" />	
+<img src="https://user-images.githubusercontent.com/87363056/203319536-c1a5608c-13e9-4a08-869f-ddab6ee92f5e.png" ALIGN=”left” alt="System Menu" />	
 
 <ol>
 	<li><span style="color:#808080;">Main Menu</span></li>
