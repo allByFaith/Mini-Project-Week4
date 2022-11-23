@@ -18,8 +18,6 @@
 
 <p><span style="color:#808080;">In general, this system is able to handle three types of operation, namely: products, couriers and orders handling respectively.&nbsp; These operations will be grouped inside the </span><strong>FOUR&nbsp;BASIC MENUS</strong><span style="color:#808080;">, they are:</span></p>
 
-<img src="https://user-images.githubusercontent.com/87363056/203549410-1500ab2a-fb43-403c-8a4d-e9bb296db5a8.png" ALIGN=”left” alt="System Menu" />	
-
 <ol>
 	<li><span style="color:#808080;">Main Menu</span></li>
 	<li><span style="color:#808080;">Product Menu</span></li>
@@ -33,44 +31,7 @@
 
 <p><span style="color:#808080;">All the required functions will be grouped as their natures.&nbsp; Below will show the details of each menu:</span></p>
 
-<ol>
-	<li>Main Menu
-	<ol>
-		<li><span style="color:#808080;">Product Menu</span></li>
-		<li><span style="color:#808080;">Courier Menu</span></li>
-		<li><span style="color:#808080;">Order Menu</span></li>
-		<li><span style="color:#808080;">Exit Menu</span></li>
-	</ol>
-	</li>
-	<li value="2">Product Menu
-	<ol>
-		<li><span style="color:#808080;">Print Product List</span></li>
-		<li><span style="color:#808080;">Add Product</span></li>
-		<li><span style="color:#808080;">Update Product</span></li>
-		<li><span style="color:#808080;">Delete Product</span></li>
-		<li><span style="color:#808080;">Return to Main</span></li>
-	</ol>
-	</li>
-	<li value="3">Courier Menu
-	<ol>
-		<li><span style="color:#808080;">Print Courier List</span></li>
-		<li><span style="color:#808080;">Add Courier</span></li>
-		<li><span style="color:#808080;">Update Courier</span></li>
-		<li><span style="color:#808080;">Delete Courier</span></li>
-		<li><span style="color:#808080;">Return to Main</span></li>
-	</ol>
-	</li>
-	<li value="4">Order Menu
-	<ol>
-		<li><span style="color:#808080;">Print Order List</span></li>
-		<li><span style="color:#808080;">Add Order</span></li>
-		<li><span style="color:#808080;">Update Order</span></li>
-		<li><span style="color:#808080;">Delete Order</span></li>
-		<li><span style="color:#808080;">Return to Main</span></li>
-	</ol>
-	</li>
-</ol>
-
+<img src="https://user-images.githubusercontent.com/87363056/203549410-1500ab2a-fb43-403c-8a4d-e9bb296db5a8.png" ALIGN=”left” alt="System Menu" />		
 	
 <p style="text-align: justify;">&nbsp;</p>
 	
